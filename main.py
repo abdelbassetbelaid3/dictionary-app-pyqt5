@@ -9,5 +9,3 @@ print(synonym_results)
  'old lady', 'old woman', 'origin', 'para i', 'parent', 'predecessor',
  'primipara', 'procreator', 'progenitor', 'puerpera', 'quadripara',
  'quintipara', 'source', 'supermom', 'surrogate mother']
-git config - -global user.email belaidabdelbasset3@gmail.com
-git config - -global user.name abdelbassetbelaid3
