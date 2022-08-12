@@ -1,0 +1,1 @@
+        # self.label_2.setText(str(label2))

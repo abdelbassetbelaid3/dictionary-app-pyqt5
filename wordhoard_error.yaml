@@ -1,0 +1,9 @@
+2022-08-12 23:15:56:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word dad
+2022-08-12 23:15:57:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-08-12 23:15:57:wordhoard.antonyms:ERROR:   File "C:\Users\abdel\AppData\Local\Programs\Python\Python310\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-08-12 23:16:12:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-08-12 23:16:12:wordhoard.antonyms:ERROR:   File "C:\Users\abdel\AppData\Local\Programs\Python\Python310\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
